@@ -1,0 +1,13 @@
+body {
+    background-image: url('/var/www/html/countries-php/img/world-map-4k-flags-mzwa4z34s5wop211.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.content {
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo semi-transparente para melhor legibilidade */
+    padding: 20px;
+    border-radius: 10px;
+}

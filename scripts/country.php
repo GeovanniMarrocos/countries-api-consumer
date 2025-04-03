@@ -16,7 +16,7 @@ $country_data = $api->get_country($country);
 ?>
 
 
-<div class="container mt-5">
+<div class="container mt-5 d-flex align-self-center">
     <div class ="d-flex">
         <div class="card p-2 shadow">
             <img src="<?=$country_data[0]['flags']['png']?>" alt="image of the coiuntries">

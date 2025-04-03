@@ -7,7 +7,6 @@ $countries = $api->get_all_countries();
 
 ?>
 
-
 <div class="container mt-5">
     <div class="row">
         <div class="col text-center">

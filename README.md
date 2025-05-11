@@ -1,0 +1,1 @@
+Este projeto PHP consome a API RestCountries (https://restcountries.com/) para obter e exibir informações sobre países ao redor do mundo. A aplicação demonstra como fazer requisições HTTP em PHP puro, processar respostas JSON e apresentar os dados de forma organizada
